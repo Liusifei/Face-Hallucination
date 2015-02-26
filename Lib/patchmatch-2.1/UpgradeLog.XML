@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="mex">
+</Property><Property Name="Solution File" Value="D:\Documents\Research\software package\121005 patchmatch-2.1\patchmatch-2.1\mex.sln">
+</Property><Property Name="Date" Value="Friday, October 05, 2012">
+</Property><Property Name="Time" Value="13:25 PM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="mex.sln" Description="File successfully backed up as D:\Documents\Research\software package\121005 patchmatch-2.1\patchmatch-2.1\mex.sln.old">
+</Event><Event ErrorLevel="0" Project="nnmex" Source="nnmex\nnmex.vcproj" Description="Converting project file 'D:\Documents\Research\software package\121005 patchmatch-2.1\patchmatch-2.1\nnmex\nnmex.vcproj'.">
+</Event><Event ErrorLevel="2" Project="nnmex" Source="nnmex\nnmex.vcproj" Description="File 'D:\Documents\Research\software package\121005 patchmatch-2.1\patchmatch-2.1\nnmex\nnmex.vcproj' was not found.">
+</Event><Event ErrorLevel="2" Project="nnmex" Source="nnmex\nnmex.vcproj" Description="Project upgrade failed.">
+</Event><Event ErrorLevel="3" Project="nnmex" Source="nnmex\nnmex.vcproj" Description="Not Converted">
+</Event><Event ErrorLevel="0" Project="votemex" Source="votemex\votemex.vcproj" Description="Converting project file 'D:\Documents\Research\software package\121005 patchmatch-2.1\patchmatch-2.1\votemex\votemex.vcproj'.">
+</Event><Event ErrorLevel="2" Project="votemex" Source="votemex\votemex.vcproj" Description="File 'D:\Documents\Research\software package\121005 patchmatch-2.1\patchmatch-2.1\votemex\votemex.vcproj' was not found.">
+</Event><Event ErrorLevel="2" Project="votemex" Source="votemex\votemex.vcproj" Description="Project upgrade failed.">
+</Event><Event ErrorLevel="3" Project="votemex" Source="votemex\votemex.vcproj" Description="Not Converted">
+</Event><Event ErrorLevel="0" Project="" Source="mex.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="mex.sln" Description="Converted">
+</Event></UpgradeLog>
