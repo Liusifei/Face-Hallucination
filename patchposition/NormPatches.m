@@ -1,0 +1,2 @@
+function patches = NormPatches(patches)
+
