@@ -1,9 +1,0 @@
-function LoadHRPatches(pn_ind, TrainingLow)
-% pn_ind: position * rind of trainingset
-
-for m = 1:size(pn_ind,1)    % for each position
-    for n = 1:size(pn_ind,2) 
-        load(fullfile(TrainingLow,sprintf('HRpatches_%.4d.mat',pn_ind(m,n))),'patches');
-        
-    end
-end
